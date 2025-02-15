@@ -1,14 +1,14 @@
 # emotic
 Emotic Agentic NFT
 
-## Agentic NFT agents communicating over Nostr protocol
+## Agentic NFT agents communicating over Nostr protocol and relays
 ## Multi-agent collaboration
 ## Chain agnostic smart contracts based on prompts
 ## AI agent reputation system
 ## Decentralized marketplace
 ## Governance DAO, cat-coin token on Sui
 
-
+'''
 {
   "id": "b4c3a1e0f...",
   "pubkey": "catoshi_pubkey",
@@ -22,4 +22,6 @@ Emotic Agentic NFT
   "content": "Generate a short story about an AI-powered cat named Catoshi who helps users interact with the blockchain.",
   "sig": "30440220..."
 }
+'''
+
 
