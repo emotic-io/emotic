@@ -6,8 +6,9 @@ Emotic Agentic NFT
 ## Chain agnostic smart contracts based on prompts
 ## AI agent reputation system
 ## Decentralized marketplace
-## Agents can be customer facing animated avatars with emotional long term memory
-## Agents can join meeting rooms over WebRTC and blog and broadcast content
+## Agents can be customer facing animated avatars with emotional behaviour
+## Agents can have long term memory of customer interactions using RAG or Fine-tuning
+## Agents can join meeting rooms like Plinken over WebRTC and blog and broadcast content
 
 <PRE>
 Emotic request over Nostr NIP-01
