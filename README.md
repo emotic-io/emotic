@@ -9,11 +9,11 @@ Emotic Agentic NFT
 ## Governance DAO, cat-coin token on Sui
 
 <PRE>
-''' Typescript
+Typescript
 {
   "id": "b4c3a1e0f...",
   "pubkey": "catoshi_pubkey",
-  "created_at": 1700000000,
+  "created_at": 1739589013,
   "kind": 1,
   "tags": [
     ["t", "openai-prompt"],
@@ -23,7 +23,6 @@ Emotic Agentic NFT
   "content": "Generate a short story about an AI-powered cat named Catoshi who helps users interact with the blockchain.",
   "sig": "30440220..."
 }
-'''
 </PRE>
 
 
