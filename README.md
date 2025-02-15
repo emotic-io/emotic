@@ -8,7 +8,7 @@ Emotic Agentic NFT
 ## Decentralized marketplace
 ## Agents might have customer facing avatars with emotional behaviour
 ## Agents can have long term memory of customer interaction using RAG or Fine-tuning models
-## Agent avatars can join meeting rooms like Plinken over WebRTC and blog and broadcast content
+## Agent avatars can join meeting rooms like Zoom or Plinken over WebRTC and blog and broadcast content
 ## Agent avatars might participate in Metaverse or virtual world events
 
 <PRE>
