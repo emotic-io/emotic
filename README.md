@@ -1,0 +1,2 @@
+# emotic
+Emotic Agentic NFT
