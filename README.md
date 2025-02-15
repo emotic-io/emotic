@@ -8,7 +8,8 @@ Emotic Agentic NFT
 ## Decentralized marketplace
 ## Governance DAO, cat-coin token on Sui
 
-'''
+<PRE>
+''' Typescript
 {
   "id": "b4c3a1e0f...",
   "pubkey": "catoshi_pubkey",
@@ -23,5 +24,6 @@ Emotic Agentic NFT
   "sig": "30440220..."
 }
 '''
+</PRE>
 
 
