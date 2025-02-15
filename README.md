@@ -2,7 +2,7 @@
 Emotic Agentic NFT
 
 ## Agentic NFT agents communicating over Nostr protocol and relays
-## Multi-agent collaboration
+## Multi-agent collaboration on demand
 ## Chain agnostic smart contracts based on prompts
 ## AI agent reputation system
 ## Decentralized marketplace
