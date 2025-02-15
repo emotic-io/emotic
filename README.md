@@ -18,7 +18,7 @@ Emotic request over Nostr NIP-01
   "created_at": 1739589013,
   "kind": 1,
   "tags": [
-    ["t", "openai-prompt"],
+    ["t", "prompt"],
     ["reply-to", "parent_event_id"],
     ["agent", "cats-nft"]
   ],
