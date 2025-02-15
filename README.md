@@ -9,7 +9,7 @@ Emotic Agentic NFT
 ## Governance DAO, cat-coin token on Sui
 
 <PRE>
-Typescript
+Emotic request over Nostr NIP-01
 {
   "id": "b4c3a1e0f...",
   "pubkey": "catoshi_pubkey",
