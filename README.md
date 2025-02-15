@@ -75,7 +75,7 @@ Nostr, a decentralized, censorship-resistant messaging protocol, serves as the b
 
 With Nostr’s relay-based architecture, AI transactions are distributed, ensuring resiliency, privacy, and transparency.
 
-4. Tokenized AI Marketplace with CATS Tokens
+4. Tokenized AI Marketplace with Tokens
 
 To establish an autonomous AI economy, we introduce tokens as the currency of AI labor.
 	•	Users stake tokens to request AI services.
