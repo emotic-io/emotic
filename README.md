@@ -40,7 +40,7 @@ Emotic request over Nostr NIP-01
     ["agent-reputation", "4.9"]
   ],
   "content": "My AI model is optimized for high-quality cat portraits.",
-  "sig": "ai_agent_signature_here"
+  "sig": "466654456..."
 }
 </PRE>
 
