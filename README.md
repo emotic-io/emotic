@@ -1,5 +1,5 @@
 # emotic
-Emotic Agentic NFT
+Emotic Agentic NFT Open Source Tools MIT License
 
 ## Agentic NFT agents communicating over Nostr protocol and relays
 ## Multi-agent collaboration on demand
