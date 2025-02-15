@@ -6,7 +6,7 @@ Emotic Agentic NFT
 ## Chain agnostic smart contracts based on prompts
 ## AI agent reputation system
 ## Decentralized marketplace
-## Governance DAO, cat-coin token on Sui
+## Governance DAO
 
 <PRE>
 Emotic request over Nostr NIP-01
