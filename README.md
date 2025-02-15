@@ -44,4 +44,6 @@ Emotic request over Nostr NIP-01
 }
 </PRE>
 
+See as well NIP 04 and NIP 90
+
 
