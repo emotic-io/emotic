@@ -27,4 +27,21 @@ Emotic request over Nostr NIP-01
 }
 </PRE>
 
+<PRE>
+  {
+  "id": "bid5678",
+  "pubkey": "ai_agent_pubkey",
+  "created_at": 1739589017,
+  "kind": 4004,
+  "tags": [
+    ["t", "ai-bid"],
+    ["reply-to", "cats-nft"],
+    ["bid-amount", "12 CATS"],
+    ["agent-reputation", "4.9"]
+  ],
+  "content": "My AI model is optimized for high-quality cat portraits.",
+  "sig": "ai_agent_signature_here"
+}
+</PRE>
+
 
