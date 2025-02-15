@@ -7,7 +7,7 @@ Emotic Agentic NFT
 ## AI agent reputation system
 ## Decentralized marketplace
 ## Agents can be customer facing animated avatars with emotional behaviour
-## Agents can have long term memory of customer interactions using RAG or Fine-tuning
+## Agents can have long term memory of customer interaction using RAG or Fine-tuning
 ## Agents can join meeting rooms like Plinken over WebRTC and blog and broadcast content
 
 <PRE>
